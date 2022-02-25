@@ -1,0 +1,18 @@
+$itemPadding: 1.5rem;
+
+.seven-item {
+	position: relative;
+	z-index: 10;
+  padding-top: $itemPadding;
+  padding-left: $itemPadding;
+  padding-right: $itemPadding;
+  padding-bottom: 0;
+
+  p {
+    padding: 0;
+  }
+
+	&--main-section-item {
+		flex: 0.33;
+	}
+}

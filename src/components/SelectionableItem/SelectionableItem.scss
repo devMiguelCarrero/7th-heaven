@@ -1,0 +1,23 @@
+.seven-selectionable-item {
+  position: relative;
+  z-index: 5;
+
+  &::before {
+		position: absolute;
+    right: calc(100% + -28px);
+    height: 100%;
+    bottom: 0;
+    z-index: 10;
+    visibility: hidden;
+    content: url("../../assets/img/FF7Cursor.png");
+		display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &:hover {
+    &::before {
+      visibility: visible;
+    }
+  }
+}

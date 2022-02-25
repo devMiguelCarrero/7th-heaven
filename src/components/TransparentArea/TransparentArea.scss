@@ -1,0 +1,13 @@
+.transparent-area {
+	
+	background-color: transparent;
+	position: relative;
+	&--index-section {
+		display: flex;
+		flex: .15;
+		height: 100%;
+		flex-direction: column;
+		justify-content: space-between;
+		
+	}
+}

@@ -1,0 +1,37 @@
+$paddingLi: 1.5rem;
+
+.seven-vertical-menu {
+  position: relative;
+  z-index: 10;
+  list-style-type: none;
+  padding: $paddingLi $paddingLi 0 $paddingLi;
+  margin: 0;
+  li {
+    font-size: 1em;
+    position: relative;
+    cursor: pointer;
+    line-height: 80%;
+
+    &::before {
+      position: absolute;
+      right: calc(100% + 3px);
+      bottom: -30%;
+      z-index: 10;
+      visibility: hidden;
+      content: url("../../assets/img/FF7Cursor.png");
+    }
+
+    &:hover {
+      &::before {
+        visibility: visible;
+      }
+    }
+
+    &:not(:last-child) {
+      //margin-bottom: 15px;
+      @media (max-width: 1024px) {
+        //margin-bottom: 10px;
+      }
+    }
+  }
+}

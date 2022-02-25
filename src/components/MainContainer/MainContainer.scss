@@ -1,0 +1,33 @@
+$containerMaxWidth: 1080px;
+$containerWidth: 95vw;
+$containerMaxHeight: calc((#{$containerMaxWidth} * 3) / 4);
+$containerHeight: calc((#{$containerWidth} * 3) / 4);
+
+#root {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  @media (max-height: $containerMaxHeight) {
+    display: block;
+    height: auto;
+  }
+	@media (max-width: 768px) {
+    display: block;
+    height: auto;
+  }
+}
+
+.main-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	background-color: transparent;
+	margin: 15px auto;
+  max-width: $containerMaxWidth;
+  max-height: $containerMaxHeight;
+  width: $containerWidth;
+  height: $containerHeight;
+}
