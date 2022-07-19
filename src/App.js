@@ -1,5 +1,5 @@
-import "./frameworks/psone.css/PSone.css";
-import "./normalize.scss";
+
+
 import MainContainer from "./components/MainContainer/MainContainer";
 import Section from "./components/Section/Section";
 import Menu from "./components/Menu/Menu";

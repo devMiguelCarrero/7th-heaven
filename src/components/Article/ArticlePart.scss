@@ -1,0 +1,12 @@
+.seven-article-part {
+  max-width: 33.33%;
+  height: 100%;
+  position: relative;
+  flex: 1;
+
+  &--excerpt {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
