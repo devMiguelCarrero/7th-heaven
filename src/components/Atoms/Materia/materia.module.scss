@@ -1,0 +1,43 @@
+@import '@/shared/common/variables/sizes';
+@import '@/shared/common/variables/colors';
+@import '@/shared/common/variables/mixins';
+@import '@/shared/common/variables/transitions';
+
+$variants: 'magic' url('/img/materia/magic-materia.webp'),
+  'support' url('/img/materia/support-materia.webp'),
+  'independent' url('/img/materia/independent-materia.webp'),
+  'command' url('/img/materia/command-materia.webp'),
+  'summon' url('/img/materia/summon-materia.webp');
+
+.materia {
+  position: relative;
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+  color: $color-item;
+  margin-left: 0.8em;
+
+  &::before {
+    @include item-with-text(url('/img/materia/magic-materia.webp'));
+  }
+
+  @each $variant, $url in $variants {
+    &--#{$variant} {
+      &::before {
+        background-image: $url;
+      }
+    }
+  }
+
+  &::after {
+    @include link-hover();
+  }
+
+  &:hover {
+    &::after {
+      width: 100%;
+    }
+  }
+}
