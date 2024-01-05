@@ -4,6 +4,7 @@ html,
 body {
   font-family: $main-font;
   max-width: 100vw;
+  font-size: 35px;
 }
 
 * {
@@ -14,12 +15,16 @@ body {
 
 body {
   margin: 0;
-  line-height: 1;
+  line-height: $main-line-height;
 }
 
 a {
   color: inherit;
   text-decoration: none;
+}
+
+p {
+  @include paragraph-size;
 }
 
 @media (prefers-color-scheme: dark) {

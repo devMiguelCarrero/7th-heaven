@@ -1,0 +1,10 @@
+$transition-time: 0.2s;
+$transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+@function main-transition(
+  $attribute: all,
+  $time: $transition-time,
+  $timing-function: $transition-timing-function
+) {
+  @return $attribute $time $timing-function;
+}
