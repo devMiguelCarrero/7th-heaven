@@ -1,0 +1,8362 @@
+[
+  {
+    "id:": "1",
+    "materia": "HP Plus",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "200",
+      "total-lv3": "20000",
+      "level 4": "300",
+      "totallv-4": "30000",
+      "level 5": "500",
+      "total-lv-5": "50000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "8",
+      "type 2": "10",
+      "type 3": "20",
+      "type 4": "30",
+      "type 5": "40",
+      "type 6": "50"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "8000",
+    "selling value": "560000",
+    "formula": "250000",
+    "menu description": "Increases HP Capacity",
+    "level 1": {
+      "name": "MaxHPUP +10%",
+      "effect": "Max HP +10%",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "MaxHPUP +20%",
+      "effect": "Max HP +20%",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "MaxHPUP +30%",
+      "effect": "Max HP +30%",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "MaxHPUP +40%",
+      "effect": "Max HP +40%",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "MaxHPUP +50%"
+    }
+  },
+  {
+    "id:": "2",
+    "materia": "Speed Plus",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "150",
+      "total-lv2": "15000",
+      "level 3": "300",
+      "total-lv3": "30000",
+      "level 4": "600",
+      "totallv-4": "60000",
+      "level 5": "1000",
+      "total-lv-5": "100000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "4",
+      "type 2": "10",
+      "type 3": "20",
+      "type 4": "30",
+      "type 5": "40",
+      "type 6": "50"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "20000",
+    "selling value": "1400000",
+    "formula": "2100000",
+    "menu description": "Increases \"Dexterity\"",
+    "level 1": {
+      "name": "Dexterity +10%",
+      "effect": "Dexterity +10%",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Dexterity +20%",
+      "effect": "Dexterity +20%",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Dexterity +30%",
+      "effect": "Dexterity +30%",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Dexterity +40%",
+      "effect": "Dexterity +40%",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Dexterity +50%"
+    }
+  },
+  {
+    "id:": "3",
+    "materia": "Magic Plus",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "200",
+      "total-lv3": "20000",
+      "level 4": "300",
+      "totallv-4": "30000",
+      "level 5": "500",
+      "total-lv-5": "50000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "2",
+      "type 2": "10",
+      "type 3": "20",
+      "type 4": "30",
+      "type 5": "40",
+      "type 6": "50"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "20000",
+    "selling value": "1400000",
+    "formula": "250000",
+    "menu description": "Increases \"Magic\"",
+    "level 1": {
+      "name": "Magic +10%",
+      "effect": "Magic +10%",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Magic +20%",
+      "effect": "Magic +20%",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Magic+30%",
+      "effect": "Magic+30%",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Magic +40%",
+      "effect": "Magic +40%",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Magic +50%"
+    }
+  },
+  {
+    "id:": "4",
+    "materia": "Luck Plus",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "150",
+      "total-lv2": "15000",
+      "level 3": "300",
+      "total-lv3": "30000",
+      "level 4": "600",
+      "totallv-4": "60000",
+      "level 5": "1000",
+      "total-lv-5": "100000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "5",
+      "type 2": "10",
+      "type 3": "20",
+      "type 4": "30",
+      "type 5": "40",
+      "type 6": "50"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "15000",
+    "selling value": "1050000",
+    "formula": "2100000",
+    "menu description": "Increases \"Luck\"",
+    "level 1": {
+      "name": "Luck +10%",
+      "effect": "Luck +10%",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Luck +20%",
+      "effect": "Luck +20%",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Luck +30%",
+      "effect": "Luck +30%",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Luck +40%",
+      "effect": "Luck +40%",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Luck +50%"
+    }
+  },
+  {
+    "id:": "5",
+    "materia": "EXP Plus",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "600",
+      "total-lv2": "60000",
+      "level 3": "1500",
+      "total-lv3": "150000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "4",
+      "description": "EXP added based on Modifiers and AP Level"
+    },
+    "materia modifiers": {
+      "type 1": "10",
+      "type 2": "24",
+      "type 3": "32",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "7",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "+1",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "4",
+    "menu description": "Receive more EXP points",
+    "level 1": {
+      "name": "EXP. UP",
+      "effect": "EXP Gained +50%",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "EXP. UP",
+      "effect": "EXP Gained +100%",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "6",
+    "materia": "Gil Plus",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "800",
+      "total-lv2": "80000",
+      "level 3": "1500",
+      "total-lv3": "150000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "4",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "0",
+      "type 2": "24",
+      "type 3": "32",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "7",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "+1",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "4",
+    "menu description": "Earn more gil after battles",
+    "level 1": {
+      "name": "Gil UP",
+      "effect": "Gil Gained +50%",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Gil UP",
+      "effect": "Gil Gained +100%",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "7",
+    "materia": "Enemy Away",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "500",
+      "total-lv3": "50000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "4",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "1",
+      "type 2": "7",
+      "type 3": "14",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "7",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "+1",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "4",
+    "menu description": "Decreases Encounter rate",
+    "level 1": {
+      "name": "Encount Down",
+      "effect": "Enc Rate Decreases 7/16ths",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Encount Down",
+      "effect": "Enc Rate Decreases 14/16ths",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "8",
+    "materia": "Enemy Lure",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "500",
+      "total-lv3": "50000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "4",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "1",
+      "type 2": "7",
+      "type 3": "14",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "8",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "-1",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "4",
+    "menu description": "Increases Encounter rate",
+    "level 1": {
+      "name": "Encount Up",
+      "effect": "Enc Rate Increases 7/16ths",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Encount Up",
+      "effect": "Enc Rate Increases 14/16ths",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "9",
+    "materia": "Chocobo Lure",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "30",
+      "total-lv2": "3000",
+      "level 3": "100",
+      "total-lv3": "10000",
+      "level 4": "300",
+      "totallv-4": "30000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "4",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "2",
+      "type 2": "8",
+      "type 3": "12",
+      "type 4": "16",
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "7",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "+1",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "4",
+    "menu description": "Attracts Chocobos",
+    "level 1": {
+      "name": "Meet Chocobos",
+      "effect": "Chocobo Lure Rating +8",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Meet Chocobos",
+      "effect": "Chocobo Lure Rating +12",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Meet Chocobos",
+      "effect": "Chocobo Lure Rating +16",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "A",
+    "materia": "Pre-Emptive",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "80",
+      "total-lv2": "8000",
+      "level 3": "200",
+      "total-lv3": "20000",
+      "level 4": "400",
+      "totallv-4": "40000",
+      "level 5": "800",
+      "total-lv-5": "80000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "3",
+      "type 2": "16",
+      "type 3": "22",
+      "type 4": "28",
+      "type 5": "34",
+      "type 6": "48"
+    },
+    "equip effect": "A",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "+2",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "280000",
+    "menu description": "Increases rate of pre-emptive attacks",
+    "level 1": {
+      "name": "Pre-emptive",
+      "effect": "Pre-emptive rating +16/256",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Pre-emptive",
+      "effect": "Pre-emptive rating +22/256",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Pre-emptive",
+      "effect": "Pre-emptive rating +28/256",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Pre-emptive",
+      "effect": "Pre-emptive rating +34/256",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Pre-emptive"
+    }
+  },
+  {
+    "id:": "B",
+    "materia": "Long Range",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "800",
+      "total-lv2": "80000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Long Range effect ONLY if Materia ID is B"
+    },
+    "materia modifiers": {
+      "type 1": "80",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3",
+    "menu description": "Same attack Power even from the back row",
+    "level 1": {
+      "name": "Long range attack",
+      "effect": "All weapon based attacks are long range",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "C",
+    "materia": "Mega All",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "200",
+      "total-lv2": "20000",
+      "level 3": "400",
+      "total-lv3": "40000",
+      "level 4": "800",
+      "totallv-4": "80000",
+      "level 5": "1600",
+      "total-lv-5": "160000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Mega-All effect"
+    },
+    "materia modifiers": {
+      "type 1": "81",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3160000",
+    "menu description": "\"All\" effects on every action",
+    "level 1": {
+      "name": "Attack all",
+      "effect": "Use \"All\" effect once per battle",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Attack all",
+      "effect": "Use \"All\" effect twice per battle",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Attack all",
+      "effect": "Use \"All\" effect 3 times per battle",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Attack all",
+      "effect": "Use \"All\" effect 4 times per battle",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Attack all"
+    }
+  },
+  {
+    "id:": "D",
+    "materia": "Counter Attack",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "200",
+      "total-lv3": "20000",
+      "level 4": "500",
+      "totallv-4": "50000",
+      "level 5": "1000",
+      "total-lv-5": "100000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "83",
+      "type 2": "30",
+      "type 3": "40",
+      "type 4": "60",
+      "type 5": "80",
+      "type 6": "100"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2100000",
+    "menu description": "Counter attacks when damage is incurred",
+    "level 1": {
+      "name": "Counter attack",
+      "effect": "30% chance of countering with Attack",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Counter attack",
+      "effect": "40% chance of countering with Attack",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Counter attack",
+      "effect": "60% chance of countering with Attack",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Counter attack",
+      "effect": "80% chance of countering with Attack",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Counter attack"
+    }
+  },
+  {
+    "id:": "E",
+    "materia": "Slash-All",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "1300",
+      "total-lv2": "130000",
+      "level 3": "1500",
+      "total-lv3": "150000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Replaces ATTACK command based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "24",
+      "type 2": "26",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "1",
+    "menu description": "Attack all opponents",
+    "level 1": {
+      "name": "Slash-All",
+      "effect": "Uses Attack on all opponents",
+      "target attributes": "All Tar Only"
+    },
+    "level 2": {
+      "name": "Flash",
+      "effect": "Casts Death on all enemies",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "F",
+    "materia": "Double Cut",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "1000",
+      "total-lv2": "100000",
+      "level 3": "1500",
+      "total-lv3": "150000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Replaces ATTACK command based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "25",
+      "type 2": "27",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "A",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "+2",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "1",
+    "menu description": "Attacks constantly",
+    "level 1": {
+      "name": "2x-Cut",
+      "effect": "Uses Attack 2 times",
+      "target attributes": "1 Tar Only"
+    },
+    "level 2": {
+      "name": "4x-Cut",
+      "effect": "Uses Attack 4 times",
+      "target attributes": "1 Tar Only (Rnd)"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "10",
+    "materia": "Cover",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "20",
+      "total-lv2": "2000",
+      "level 3": "100",
+      "total-lv3": "10000",
+      "level 4": "250",
+      "totallv-4": "25000",
+      "level 5": "400",
+      "total-lv-5": "40000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Enables Modifier 1 based on Modifiers 2-6 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "11",
+      "type 2": "20",
+      "type 3": "40",
+      "type 4": "60",
+      "type 5": "80",
+      "type 6": "100"
+    },
+    "equip effect": "6",
+    "str": "",
+    "vit": "+1",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1000",
+    "selling value": "70000",
+    "formula": "240000",
+    "menu description": "Protects allies when attacked",
+    "level 1": {
+      "name": "Cover +20%",
+      "effect": "Chance of covering 20%",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Cover +40%",
+      "effect": "Chance of covering 40%",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Cover +60%",
+      "effect": "Chance of covering 60%",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Cover +80%",
+      "effect": "Chance of covering 80%",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Cover +100%"
+    }
+  },
+  {
+    "id:": "11",
+    "materia": "Underwater",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "0",
+      "description": "If Modifier 1 = 12 the Underwater, if 98 then HP<->MP"
+    },
+    "materia modifiers": {
+      "type 1": "12",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "0",
+    "menu description": "Underwater breathing",
+    "level 1": {
+      "name": "Underwater",
+      "effect": "Removes timer during Emerald battle",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "12",
+    "materia": "HP<->MP",
+    "materia type": "Independent",
+    "ap needed": {
+      "level 2": "800",
+      "total-lv2": "80000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "0",
+      "description": "If Modifier 1 = 12 the Underwater, if 98 then HP<->MP"
+    },
+    "materia modifiers": {
+      "type 1": "98",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "0",
+    "menu description": "Exchange HP and MP levels",
+    "level 1": {
+      "name": "HP<->MP",
+      "effect": "Swaps MaxHP and MaxMP values",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "13",
+    "materia": "W-Magic",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "2500",
+      "total-lv2": "250000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Commands 1-19 replaced with 21-23 (Modifier 1)"
+    },
+    "materia modifiers": {
+      "type 1": "21",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3",
+    "menu description": "Casts two Magic spells at once",
+    "level 1": {
+      "name": "W-Magic",
+      "effect": "Enables use of 2 consecutive Magic spells",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "14",
+    "materia": "W-Summon",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "2500",
+      "total-lv2": "250000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Commands 1-19 replaced with 21-23 (Modifier 1)"
+    },
+    "materia modifiers": {
+      "type 1": "22",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3",
+    "menu description": "Casts two Summon spells at once",
+    "level 1": {
+      "name": "W-Summon",
+      "effect": "Enables use of 2 consecutive Summon spells",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "15",
+    "materia": "W-Item",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "2500",
+      "total-lv2": "250000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Commands 1-19 replaced with 21-23 (Modifier 1)"
+    },
+    "materia modifiers": {
+      "type 1": "23",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3",
+    "menu description": "Use two items at once",
+    "level 1": {
+      "name": "W-Item",
+      "effect": "Enables use of 2 consecutive Items",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "16",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "0",
+    "selling value": "0",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "17",
+    "materia": "All",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "15",
+      "total-lv2": "1500",
+      "level 3": "60",
+      "total-lv3": "6000",
+      "level 4": "180",
+      "totallv-4": "18000",
+      "level 5": "350",
+      "total-lv-5": "35000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Modifier 1 81, 87 or 99"
+    },
+    "materia modifiers": {
+      "type 1": "81",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "20000",
+    "selling value": "1400000",
+    "formula": "335000",
+    "menu description": "\"All\" effects on paired Magic",
+    "level 1": {
+      "name": "All",
+      "effect": "Use \"All\" effect once per battle",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "All",
+      "effect": "Use \"All\" effect twice per battle",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "All",
+      "effect": "Use \"All\" effect 3 times per battle",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "All",
+      "effect": "Use \"All\" effect 4 times per battle",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "All"
+    }
+  },
+  {
+    "id:": "18",
+    "materia": "Counter",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "200",
+      "total-lv2": "20000",
+      "level 3": "400",
+      "total-lv3": "40000",
+      "level 4": "600",
+      "totallv-4": "60000",
+      "level 5": "1000",
+      "total-lv-5": "100000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "84",
+      "type 2": "30",
+      "type 3": "40",
+      "type 4": "60",
+      "type 5": "80",
+      "type 6": "100"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2100000",
+    "menu description": "Attacks with paired Command when damage is incurred",
+    "level 1": {
+      "name": "Counter",
+      "effect": "30% chance of countering with Command",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Counter",
+      "effect": "40% chance of countering with Command",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Counter",
+      "effect": "60% chance of countering with Command",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Counter",
+      "effect": "80% chance of countering with Command",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Counter"
+    }
+  },
+  {
+    "id:": "19",
+    "materia": "Magic Counter",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "200",
+      "total-lv2": "20000",
+      "level 3": "400",
+      "total-lv3": "40000",
+      "level 4": "800",
+      "totallv-4": "80000",
+      "level 5": "3000",
+      "total-lv-5": "300000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "85",
+      "type 2": "30",
+      "type 3": "40",
+      "type 4": "60",
+      "type 5": "80",
+      "type 6": "100"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2300000",
+    "menu description": "Counters with paired Magic/Summon when attacked",
+    "level 1": {
+      "name": "Magic Counter",
+      "effect": "30% chance of countering with Magic/Summon",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Magic Counter",
+      "effect": "40% chance of countering with Magic/Summon",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Magic Counter",
+      "effect": "60% chance of countering with Magic/Summon",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Magic Counter",
+      "effect": "80% chance of countering with Magic/Summon",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Magic Counter"
+    }
+  },
+  {
+    "id:": "1A",
+    "materia": "MP Turbo",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "300",
+      "total-lv3": "30000",
+      "level 4": "600",
+      "totallv-4": "60000",
+      "level 5": "1200",
+      "total-lv-5": "120000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "88",
+      "type 2": "10",
+      "type 3": "20",
+      "type 4": "30",
+      "type 5": "40",
+      "type 6": "50"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2120000",
+    "menu description": "Uses extra MP and increases power of paired Magic",
+    "level 1": {
+      "name": "MP Turbo",
+      "effect": "Increases damage and MP by 10%",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "MP Turbo",
+      "effect": "Increases damage and MP by 20%",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "MP Turbo",
+      "effect": "Increases damage and MP by 30%",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "MP Turbo",
+      "effect": "Increases damage and MP by 40%",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "MP Turbo"
+    }
+  },
+  {
+    "id:": "1B",
+    "materia": "MP Absorb",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "1000",
+      "total-lv2": "100000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "89",
+      "type 2": "1",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2",
+    "menu description": "Attacks with paired Materia, absorbs MP at same time",
+    "level 1": {
+      "name": "MP Absorb",
+      "effect": "Absorbs 1% MP when used with paired Materia",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "1C",
+    "materia": "HP Absorb",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "1000",
+      "total-lv2": "100000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "90",
+      "type 2": "1",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2",
+    "menu description": "Attacks with paired Materia, absorbs HP at same time",
+    "level 1": {
+      "name": "HP Absorb",
+      "effect": "Absorbs 10% HP when used with paired Materia",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "1D",
+    "materia": "Elemental",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "400",
+      "total-lv3": "40000",
+      "level 4": "800",
+      "totallv-4": "80000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "94",
+      "type 2": "0",
+      "type 3": "1",
+      "type 4": "2",
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2",
+    "menu description": "Adds Materia element to equipped weapon or armor",
+    "level 1": {
+      "name": "Elemental",
+      "effect": "Halves damage from attacks with paired Element",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Elemental",
+      "effect": "Nullifies damage from attacks with paired Element",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Elemental",
+      "effect": "Absorbs damage from attacks with paired Element",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "1E",
+    "materia": "Added Effect",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "1000",
+      "total-lv2": "100000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "95",
+      "type 2": "1",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2",
+    "menu description": "Adds Materia status to equipped weapon or armor",
+    "level 1": {
+      "name": "Added Effect",
+      "effect": "Adds Status attack/defence with paired Materia",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "1F",
+    "materia": "Sneak Attack",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "200",
+      "total-lv2": "20000",
+      "level 3": "600",
+      "total-lv3": "60000",
+      "level 4": "1000",
+      "totallv-4": "100000",
+      "level 5": "1500",
+      "total-lv-5": "150000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "86",
+      "type 2": "20",
+      "type 3": "35",
+      "type 4": "50",
+      "type 5": "65",
+      "type 6": "80"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2150000",
+    "menu description": "Pre-emptive attack with paired Materia",
+    "level 1": {
+      "name": "Sneak Attack",
+      "effect": "20% chance of an early attack with paired Materia",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Sneak Attack",
+      "effect": "35% chance of an early attack with paired Materia",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Sneak Attack",
+      "effect": "50% chance of an early attack with paired Materia",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Sneak Attack",
+      "effect": "65% chance of an early attack with paired Materia",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Sneak Attack"
+    }
+  },
+  {
+    "id:": "20",
+    "materia": "Final Attack",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "200",
+      "total-lv2": "20000",
+      "level 3": "400",
+      "total-lv3": "40000",
+      "level 4": "800",
+      "totallv-4": "80000",
+      "level 5": "1600",
+      "total-lv-5": "160000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Modifier 1 81, 87 or 99"
+    },
+    "materia modifiers": {
+      "type 1": "87",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3160000",
+    "menu description": "Automatically uses paired Materia when disabled",
+    "level 1": {
+      "name": "Final Attack",
+      "effect": "Use paired Materia when KO'd once per battle",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Final Attack",
+      "effect": "Use paired Materia when KO'd twice per battle",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Final Attack",
+      "effect": "Use paired Materia when KO'd 3 times per battle",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Final Attack",
+      "effect": "Use paired Materia when KO'd 4 times per battle",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Final Attack"
+    }
+  },
+  {
+    "id:": "21",
+    "materia": "Added Cut",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "2000",
+      "total-lv2": "200000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "92",
+      "type 2": "1",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2",
+    "menu description": "Attacks simultaneously when paired Materia is used",
+    "level 1": {
+      "name": "Added Cut",
+      "effect": "Uses Attack command after paired Materia is used",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "22",
+    "materia": "Steal as well",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "2000",
+      "total-lv2": "200000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "2",
+      "description": "Modifier 1 in range of 84-100 (87, 91, 96-99 ignored)"
+    },
+    "materia modifiers": {
+      "type 1": "93",
+      "type 2": "1",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "2",
+    "menu description": "Steal simultaneously when paired Materia is used",
+    "level 1": {
+      "name": "Steal as well",
+      "effect": "Uses Steal command after paired Materia is used",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "23",
+    "materia": "Quadra Magic",
+    "materia type": "Support",
+    "ap needed": {
+      "level 2": "400",
+      "total-lv2": "40000",
+      "level 3": "800",
+      "total-lv3": "80000",
+      "level 4": "1200",
+      "totallv-4": "120000",
+      "level 5": "2000",
+      "total-lv-5": "200000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Modifier 1 81, 87 or 99"
+    },
+    "materia modifiers": {
+      "type 1": "99",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3200000",
+    "menu description": "Paired Magic used 4 times",
+    "level 1": {
+      "name": "Quadra Magic",
+      "effect": "Uses paired Magic four times (1 use per battle)",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Quadra Magic",
+      "effect": "Uses paired Magic four times (2 uses per battle)",
+      "target attributes": null
+    },
+    "level 3": {
+      "name": "Quadra Magic",
+      "effect": "Uses paired Magic four times (3 uses per battle)",
+      "target attributes": null
+    },
+    "level 4": {
+      "name": "Quadra Magic",
+      "effect": "Uses paired Magic four times (4 uses per battle)",
+      "target attributes": null
+    },
+    "level 5": {
+      "name": "Quadra Magic"
+    }
+  },
+  {
+    "id:": "24",
+    "materia": "Steal",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "400",
+      "total-lv2": "40000",
+      "level 3": "500",
+      "total-lv3": "50000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Command based on Modifier 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "5",
+      "type 2": "17",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "A",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "+2",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1200",
+    "selling value": "84000",
+    "formula": "1",
+    "menu description": "Equips \"Steal\" command",
+    "level 1": {
+      "name": "Steal",
+      "effect": "Attempts to steal an item from an enemy",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Mug",
+      "effect": "Attacks the enemy while attempting to steal",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "25",
+    "materia": "Sense",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "400",
+      "total-lv2": "40000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Command based on Modifier 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "6",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1000",
+    "selling value": "70000",
+    "formula": "1",
+    "menu description": "Equips \"Sense\" Command",
+    "level 1": {
+      "name": "Sense",
+      "effect": "Senses an enemy's attributes",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "26",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "10000",
+    "selling value": "700000",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "27",
+    "materia": "Throw",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "450",
+      "total-lv2": "45000",
+      "level 3": "600",
+      "total-lv3": "60000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Command based on Modifier 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "8",
+      "type 2": "7",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "6",
+    "str": "",
+    "vit": "+1",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "10000",
+    "selling value": "700000",
+    "formula": "1",
+    "menu description": "Equips \"Throw\" command",
+    "level 1": {
+      "name": "Throw",
+      "effect": "Throw a weapon at a single target to inflict damage",
+      "target attributes": "1 Tar Only"
+    },
+    "level 2": {
+      "name": "Coin",
+      "effect": "Throw gil at all targets to inflict damage",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "28",
+    "materia": "Morph",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "1000",
+      "total-lv2": "100000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Command based on Modifier 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "9",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "1",
+    "menu description": "Equips \"Morph\" command",
+    "level 1": {
+      "name": "Morph",
+      "effect": "Morph an enemy into an item if attack lands the killing blow",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "29",
+    "materia": "Deathblow",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "400",
+      "total-lv2": "40000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Command based on Modifier 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "10",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "7",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "+1",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "10000",
+    "selling value": "700000",
+    "formula": "1",
+    "menu description": "Equips \"Deathblow\" command",
+    "level 1": {
+      "name": "D.blow",
+      "effect": "Chance to hit for a Critical, or miss",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "2A",
+    "materia": "Manipulate",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "400",
+      "total-lv2": "40000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Command based on Modifier 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "11",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "10000",
+    "selling value": "700000",
+    "formula": "1",
+    "menu description": "Equips \"Manipulate\" command",
+    "level 1": {
+      "name": "Manip.",
+      "effect": "Enables control of a single enemy's Commands",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "2B",
+    "materia": "Mime",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": "1000",
+      "total-lv2": "100000",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Command based on Modifier 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "12",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "1",
+    "menu description": "Equips \"Mime\" command",
+    "level 1": {
+      "name": "Mime",
+      "effect": "Repeats the action used by previous character",
+      "target attributes": "Self"
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "2C",
+    "materia": "Enemy Skill",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "5",
+      "description": "Enables E-Skill Command"
+    },
+    "materia modifiers": {
+      "type 1": "13",
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "5",
+    "menu description": "Equips \"Enemy Skill\" command",
+    "level 1": {
+      "name": "E. Skill",
+      "effect": "Learn and use up to 24 unique abilities",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "2D",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "4294967295",
+    "selling value": "4294967295",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "2E",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "4294967295",
+    "selling value": "4294967295",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "2F",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "4294967295",
+    "selling value": "4294967295",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "30",
+    "materia": "Master Command",
+    "materia type": "Command",
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "0",
+      "description": "Allows Commands 5, 6, 7, 9, 10, 11 and 12)"
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "0",
+    "menu description": "Equips all Commands",
+    "level 1": {
+      "name": "Master Command",
+      "effect": "Enables use of 7 Commands",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "31",
+    "materia": "Fire",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "20",
+      "total-lv2": "2000",
+      "level 3": "180",
+      "total-lv3": "18000",
+      "level 4": "350",
+      "totallv-4": "35000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Fire",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "27",
+      "type 2": "28",
+      "type 3": "29",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "600",
+    "selling value": "42000",
+    "formula": "1",
+    "menu description": "Equips \"Fire\" magic",
+    "level 1": {
+      "name": "Fire",
+      "effect": "Weak Fire damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Fire2",
+      "effect": "Moderate Fire damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Fire3",
+      "effect": "Strong Fire damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "32",
+    "materia": "Ice",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "20",
+      "total-lv2": "2000",
+      "level 3": "180",
+      "total-lv3": "18000",
+      "level 4": "350",
+      "totallv-4": "35000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Ice",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "30",
+      "type 2": "31",
+      "type 3": "32",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "600",
+    "selling value": "42000",
+    "formula": "1",
+    "menu description": "Equips \"Ice\" magic",
+    "level 1": {
+      "name": "Ice",
+      "effect": "Weak Ice damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Ice2",
+      "effect": "Moderate Ice damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Ice3",
+      "effect": "Strong Ice damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "33",
+    "materia": "Earth",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "60",
+      "total-lv2": "6000",
+      "level 3": "220",
+      "total-lv3": "22000",
+      "level 4": "400",
+      "totallv-4": "40000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Earth",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "36",
+      "type 2": "37",
+      "type 3": "38",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1500",
+    "selling value": "105000",
+    "formula": "1",
+    "menu description": "Equips \"Earth\" magic",
+    "level 1": {
+      "name": "Quake",
+      "effect": "Weak Earth damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Quake2",
+      "effect": "Moderate Earth damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Quake3",
+      "effect": "Strong Earth damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "34",
+    "materia": "Lightning",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "20",
+      "total-lv2": "2000",
+      "level 3": "180",
+      "total-lv3": "18000",
+      "level 4": "350",
+      "totallv-4": "35000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Lightning",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "33",
+      "type 2": "34",
+      "type 3": "35",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "600",
+    "selling value": "42000",
+    "formula": "1",
+    "menu description": "Equips \"Lightning\" magic",
+    "level 1": {
+      "name": "Bolt",
+      "effect": "Weak Lightning damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Bolt2",
+      "effect": "Moderate Lightning damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Bolt3",
+      "effect": "Strong Lightning damage",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "35",
+    "materia": "Restore",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "25",
+      "total-lv2": "2500",
+      "level 3": "170",
+      "total-lv3": "17000",
+      "level 4": "250",
+      "totallv-4": "25000",
+      "level 5": "400",
+      "total-lv-5": "40000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "0",
+      "type 2": "1",
+      "type 3": "3",
+      "type 4": "2",
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "750",
+    "selling value": "52500",
+    "formula": "140000",
+    "menu description": "Equips \"Restore\" magic",
+    "level 1": {
+      "name": "Cure",
+      "effect": "Weak healing spell",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Cure2",
+      "effect": "Moderate healing spell",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Regen",
+      "effect": "Gradually restores HP over time",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": "Cure3",
+      "effect": "Large healing spell",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "36",
+    "materia": "Heal",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "120",
+      "total-lv2": "12000",
+      "level 3": "520",
+      "total-lv3": "52000",
+      "level 4": "600",
+      "totallv-4": "60000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "4",
+      "type 2": "5",
+      "type 3": "6",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1500",
+    "selling value": "105000",
+    "formula": "1",
+    "menu description": "Equips \"Heal\" magic",
+    "level 1": {
+      "name": "Poisona",
+      "effect": "Cures Poison Status",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Esuna",
+      "effect": "Cures most negative Statuses",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Resist",
+      "effect": "Become resistant to Status changes",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "37",
+    "materia": "Revive",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "450",
+      "total-lv2": "45000",
+      "level 3": "550",
+      "total-lv3": "55000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "7",
+      "type 2": "8",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "1",
+    "str": "-2",
+    "vit": "-2",
+    "mag": "+2",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "-5%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "3000",
+    "selling value": "210000",
+    "formula": "1",
+    "menu description": "Equips \"Revive\" magic",
+    "level 1": {
+      "name": "Life",
+      "effect": "Revives KO'd party member with 1/4 HP",
+      "target attributes": "1 Tar/All Tar (NS)"
+    },
+    "level 2": {
+      "name": "Life2",
+      "effect": "Revives KO'd party member with full HP",
+      "target attributes": "1 Tar/All Tar (NS)"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "38",
+    "materia": "Seal",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "200",
+      "total-lv3": "20000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "11",
+      "type 2": "13",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "Y",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "Y",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "3000",
+    "selling value": "210000",
+    "formula": "1",
+    "menu description": "Equips \"Seal\" magic",
+    "level 1": {
+      "name": "Sleepel",
+      "effect": "Casts Sleep on enemy with [72] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Silence",
+      "effect": "Casts Silence on enemy with [60] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "39",
+    "materia": "Mystify",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "120",
+      "total-lv2": "12000",
+      "level 3": "250",
+      "total-lv3": "25000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "12",
+      "type 2": "14",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "Y",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "Y",
+    "buying value": "6000",
+    "selling value": "420000",
+    "formula": "1",
+    "menu description": "Equips \"Mystify\" magic",
+    "level 1": {
+      "name": "Confu",
+      "effect": "Casts Confusion on enemy with [60] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Berserk",
+      "effect": "Casts Berserk on enemy with [80] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "3A",
+    "materia": "Transform",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "80",
+      "total-lv2": "8000",
+      "level 3": "240",
+      "total-lv3": "24000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "9",
+      "type 2": "10",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "Y",
+    "mini": "Y",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "5000",
+    "selling value": "350000",
+    "formula": "1",
+    "menu description": "Equips \"Transform\" magic",
+    "level 1": {
+      "name": "Mini",
+      "effect": "Casts Mini on enemy with [72] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Toad",
+      "effect": "Casts Frog on enemy with [72] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "3B",
+    "materia": "Exit",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "300",
+      "total-lv3": "30000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "25",
+      "type 2": "26",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "10000",
+    "selling value": "700000",
+    "formula": "1",
+    "menu description": "Equips \"Exit\" magic",
+    "level 1": {
+      "name": "Escape",
+      "effect": "Party flees from battle, where available",
+      "target attributes": "Self"
+    },
+    "level 2": {
+      "name": "Remove",
+      "effect": "Casts Death on enemy with 100% chance",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "3C",
+    "materia": "Poison",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "50",
+      "total-lv2": "5000",
+      "level 3": "200",
+      "total-lv3": "20000",
+      "level 4": "380",
+      "totallv-4": "38000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Bio",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "39",
+      "type 2": "40",
+      "type 3": "41",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "Y",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1500",
+    "selling value": "105000",
+    "formula": "1",
+    "menu description": "Equips \"Poison\" magic",
+    "level 1": {
+      "name": "Bio",
+      "effect": "Weak Poison damage, Casts Poison with [48] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Bio2",
+      "effect": "Moderate Poison damage, Casts Poison with [48] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Bio3",
+      "effect": "Strong Poison damage, Casts Poison with [72] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "3D",
+    "materia": "Gravity",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "200",
+      "total-lv3": "20000",
+      "level 4": "400",
+      "totallv-4": "40000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Gravity",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "42",
+      "type 2": "43",
+      "type 3": "44",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "B",
+    "str": "-1",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "8000",
+    "selling value": "560000",
+    "formula": "1",
+    "menu description": "Equips \"Gravity\" magic",
+    "level 1": {
+      "name": "Demi",
+      "effect": "Deals damage equal to 1/4 of Target's current HP",
+      "target attributes": "1 Tar/All Tar (NS)"
+    },
+    "level 2": {
+      "name": "Demi2",
+      "effect": "Deals damage equal to 1/2 of Target's current HP",
+      "target attributes": "1 Tar/All Tar (NS)"
+    },
+    "level 3": {
+      "name": "Demi3",
+      "effect": "Deals damage equal to 3/4 of Target's current HP",
+      "target attributes": "1 Tar/All Tar (NS)"
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "3E",
+    "materia": "Barrier",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "50",
+      "total-lv2": "5000",
+      "level 3": "150",
+      "total-lv3": "15000",
+      "level 4": "300",
+      "totallv-4": "30000",
+      "level 5": "450",
+      "total-lv-5": "45000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "15",
+      "type 2": "16",
+      "type 3": "17",
+      "type 4": "18",
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "1",
+    "str": "-2",
+    "vit": "-2",
+    "mag": "+2",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "-5%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "10000",
+    "selling value": "700000",
+    "formula": "145000",
+    "menu description": "Equips \"Barrier\" magic",
+    "level 1": {
+      "name": "Barrier",
+      "effect": "Physical damage reduced by 50%",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "MBarrier",
+      "effect": "Magical damage reduced by 50%",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Reflect",
+      "effect": "Magic spells are reflected back at the Attacker",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": "Wall",
+      "effect": "Inflicts Target with Barrier & MBarrier",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "3F",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "0",
+    "selling value": "0",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "40",
+    "materia": "Comet",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "120",
+      "total-lv2": "12000",
+      "level 3": "600",
+      "total-lv3": "60000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "45",
+      "type 2": "46",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "1",
+    "str": "-2",
+    "vit": "-2",
+    "mag": "+2",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "-5%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "20000",
+    "selling value": "1400000",
+    "formula": "1",
+    "menu description": "Equips \"Comet\" magic",
+    "level 1": {
+      "name": "Comet",
+      "effect": "Strong Magical damage",
+      "target attributes": "1 Tar Only"
+    },
+    "level 2": {
+      "name": "Comet2",
+      "effect": "Moderate Magical damage against 4 Targets",
+      "target attributes": "1 Tar Only (Rnd)"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "41",
+    "materia": "Time",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "80",
+      "total-lv2": "8000",
+      "level 3": "200",
+      "total-lv3": "20000",
+      "level 4": "420",
+      "totallv-4": "42000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "19",
+      "type 2": "20",
+      "type 3": "21",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "1",
+    "str": "-2",
+    "vit": "-2",
+    "mag": "+2",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "-5%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "Y",
+    "stop": "Y",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "6000",
+    "selling value": "420000",
+    "formula": "1",
+    "menu description": "Equips \"Time\" magic",
+    "level 1": {
+      "name": "Haste",
+      "effect": "Casts Haste on Target with 100% chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "Slow",
+      "effect": "Casts Slow on Target with 100% chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Stop",
+      "effect": "Casts Stop on Target with [60] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "42",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "0",
+    "selling value": "0",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "43",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "0",
+    "selling value": "0",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "44",
+    "materia": "Destruct",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "60",
+      "total-lv2": "6000",
+      "level 3": "100",
+      "total-lv3": "10000",
+      "level 4": "450",
+      "totallv-4": "45000",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "22",
+      "type 2": "23",
+      "type 3": "24",
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "1",
+    "str": "-2",
+    "vit": "-2",
+    "mag": "+2",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "-5%",
+    "death": "Y",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "9000",
+    "selling value": "630000",
+    "formula": "1",
+    "menu description": "Equips \"Destruct\" magic",
+    "level 1": {
+      "name": "DeBarrier",
+      "effect": "Removes Barrier, MBarrier, Reflect & Shield",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 2": {
+      "name": "DeSpell",
+      "effect": "Removes up to 10 Statuses (see notes)",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 3": {
+      "name": "Death",
+      "effect": "Casts Death on enemy with [44] chance",
+      "target attributes": "1 Tar/All Tar"
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "45",
+    "materia": "Contain",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "50",
+      "total-lv2": "5000",
+      "level 3": "100",
+      "total-lv3": "10000",
+      "level 4": "150",
+      "totallv-4": "15000",
+      "level 5": "600",
+      "total-lv-5": "60000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "47",
+      "type 2": "48",
+      "type 3": "49",
+      "type 4": "50",
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "2",
+    "str": "-4",
+    "vit": "-2",
+    "mag": "+4",
+    "mdef": "+2",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "-10%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "Y",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "Y",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "Y",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "160000",
+    "menu description": "Equips \"Contain\" magic",
+    "level 1": {
+      "name": "Freeze",
+      "effect": "Very Strong Ice damage, Casts Stop with [68] chance",
+      "target attributes": "1 Tar Only"
+    },
+    "level 2": {
+      "name": "Break",
+      "effect": "Very Strong Earth damage, Casts Petrify with [32] chance",
+      "target attributes": "1 Tar Only"
+    },
+    "level 3": {
+      "name": "Tornado",
+      "effect": "Very Strong Wind damage, Casts Confusion with [32] chance",
+      "target attributes": "1 Tar Only"
+    },
+    "level 4": {
+      "name": "Flare",
+      "effect": "Very Strong Fire damage",
+      "target attributes": "1 Tar Only"
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "46",
+    "materia": "Full Cure",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "30",
+      "total-lv2": "3000",
+      "level 3": "1000",
+      "total-lv3": "100000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": "51",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "2",
+    "str": "-4",
+    "vit": "-2",
+    "mag": "+4",
+    "mdef": "+2",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "-10%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "1",
+    "menu description": "Equips \"Full Cure\" magic",
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "FullCure",
+      "effect": "Fully restores Targets HP",
+      "target attributes": "1 Tar Only"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "47",
+    "materia": "Shield",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "1000",
+      "total-lv3": "100000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": "53",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "2",
+    "str": "-4",
+    "vit": "-2",
+    "mag": "+4",
+    "mdef": "+2",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "-10%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "1",
+    "menu description": "Equips \"Shield\" magic",
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Shield",
+      "effect": "Sets up resistance to all Elements (see notes)",
+      "target attributes": "1 Tar Only"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "48",
+    "materia": "Ultima",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": "50",
+      "total-lv2": "5000",
+      "level 3": "1000",
+      "total-lv3": "100000",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "1",
+      "description": "Enables Magics based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": "52",
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "2",
+    "str": "-4",
+    "vit": "-2",
+    "mag": "+4",
+    "mdef": "+2",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "-10%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "1",
+    "menu description": "Equips \"Ultima\" magic",
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": "Ultima",
+      "effect": "Very Strong Magical damage",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "49",
+    "materia": "Master Magic",
+    "materia type": "Magic",
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "0",
+      "description": "Enables Magics ATTACK IDs 0-57"
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "0",
+    "menu description": "Equips all magic",
+    "level 1": {
+      "name": "Master Magic",
+      "effect": "Enables use of all Magic abilities",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "4A",
+    "materia": "Choco/Mog",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "20",
+      "total-lv2": "2000",
+      "level 3": "140",
+      "total-lv3": "14000",
+      "level 4": "250",
+      "totallv-4": "25000",
+      "level 5": "350",
+      "total-lv-5": "35000"
+    },
+    "element": "Wind",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "56",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "C",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "Y",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "335000",
+    "menu description": "Summons Choco/Mog",
+    "level 1": {
+      "name": "DeathBlow!!",
+      "effect": "Summon Choco/Mog up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Fat-Chocobo",
+      "effect": "Summon Choco/Mog up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "DeathBlow!!",
+      "effect": "Summon Choco/Mog up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "DeathBlow!!",
+      "effect": "Summon Choco/Mog up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "DeathBlow!!"
+    }
+  },
+  {
+    "id:": "4B",
+    "materia": "Shiva",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "40",
+      "total-lv2": "4000",
+      "level 3": "150",
+      "total-lv3": "15000",
+      "level 4": "300",
+      "totallv-4": "30000",
+      "level 5": "500",
+      "total-lv-5": "50000"
+    },
+    "element": "Ice",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "57",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "C",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "350000",
+    "menu description": "Summons Shiva",
+    "level 1": {
+      "name": "Diamond Dust",
+      "effect": "Summon Shiva up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Diamond Dust",
+      "effect": "Summon Shiva up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Diamond Dust",
+      "effect": "Summon Shiva up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Diamond Dust",
+      "effect": "Summon Shiva up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Diamond Dust"
+    }
+  },
+  {
+    "id:": "4C",
+    "materia": "Ifrit",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "50",
+      "total-lv2": "5000",
+      "level 3": "200",
+      "total-lv3": "20000",
+      "level 4": "350",
+      "totallv-4": "35000",
+      "level 5": "600",
+      "total-lv-5": "60000"
+    },
+    "element": "Fire",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "58",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "C",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "360000",
+    "menu description": "Summons Ifrit",
+    "level 1": {
+      "name": "Hellfire",
+      "effect": "Summon Ifrit up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Hellfire",
+      "effect": "Summon Ifrit up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Hellfire",
+      "effect": "Summon Ifrit up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Hellfire",
+      "effect": "Summon Ifrit up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Hellfire"
+    }
+  },
+  {
+    "id:": "4D",
+    "materia": "Ramuh",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "100",
+      "total-lv2": "10000",
+      "level 3": "250",
+      "total-lv3": "25000",
+      "level 4": "500",
+      "totallv-4": "50000",
+      "level 5": "700",
+      "total-lv-5": "70000"
+    },
+    "element": "Lightning",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "59",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "C",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "370000",
+    "menu description": "Summons Ramuh",
+    "level 1": {
+      "name": "Judgement Bolt",
+      "effect": "Summon Ramuh up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Judgement Bolt",
+      "effect": "Summon Ramuh up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Judgement Bolt",
+      "effect": "Summon Ramuh up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Judgement Bolt",
+      "effect": "Summon Ramuh up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Judgement Bolt"
+    }
+  },
+  {
+    "id:": "4E",
+    "materia": "Titan",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "150",
+      "total-lv2": "15000",
+      "level 3": "300",
+      "total-lv3": "30000",
+      "level 4": "600",
+      "totallv-4": "60000",
+      "level 5": "800",
+      "total-lv-5": "80000"
+    },
+    "element": "Earth",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "60",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "C",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-2%",
+    "maxmp": "+2%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "380000",
+    "menu description": "Summons Titan",
+    "level 1": {
+      "name": "Anger of the Land",
+      "effect": "Summon Titan up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Anger of the Land",
+      "effect": "Summon Titan up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Anger of the Land",
+      "effect": "Summon Titan up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Anger of the Land",
+      "effect": "Summon Titan up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Anger of the Land"
+    }
+  },
+  {
+    "id:": "4F",
+    "materia": "Odin",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "160",
+      "total-lv2": "16000",
+      "level 3": "320",
+      "total-lv3": "32000",
+      "level 4": "650",
+      "totallv-4": "65000",
+      "level 5": "900",
+      "total-lv-5": "90000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "61",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "D",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "+5%",
+    "death": "Y",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "390000",
+    "menu description": "Summons Odin",
+    "level 1": {
+      "name": "Steel Bladed Sword",
+      "effect": "Summon Odin up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Gunge Lance",
+      "effect": "Summon Odin up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Steel Bladed Sword",
+      "effect": "Summon Odin up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Steel Bladed Sword",
+      "effect": "Summon Odin up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Steel Bladed Sword"
+    }
+  },
+  {
+    "id:": "50",
+    "materia": "Leviathan",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "180",
+      "total-lv2": "18000",
+      "level 3": "380",
+      "total-lv3": "38000",
+      "level 4": "700",
+      "totallv-4": "70000",
+      "level 5": "1000",
+      "total-lv-5": "100000"
+    },
+    "element": "Water",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "62",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "D",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "+5%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3100000",
+    "menu description": "Summons Leviathan",
+    "level 1": {
+      "name": "Tidal Wave",
+      "effect": "Summon Leviathan up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Tidal Wave",
+      "effect": "Summon Leviathan up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Tidal Wave",
+      "effect": "Summon Leviathan up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Tidal Wave",
+      "effect": "Summon Leviathan up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Tidal Wave"
+    }
+  },
+  {
+    "id:": "51",
+    "materia": "Bahamut",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "200",
+      "total-lv2": "20000",
+      "level 3": "500",
+      "total-lv3": "50000",
+      "level 4": "800",
+      "totallv-4": "80000",
+      "level 5": "1200",
+      "total-lv-5": "120000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "63",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "D",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "+5%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3120000",
+    "menu description": "Summons Bahamut",
+    "level 1": {
+      "name": "Mega Flare",
+      "effect": "Summon Bahamut up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Mega Flare",
+      "effect": "Summon Bahamut up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Mega Flare",
+      "effect": "Summon Bahamut up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Mega Flare",
+      "effect": "Summon Bahamut up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Mega Flare"
+    }
+  },
+  {
+    "id:": "52",
+    "materia": "Kujata",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "220",
+      "total-lv2": "22000",
+      "level 3": "600",
+      "total-lv3": "60000",
+      "level 4": "900",
+      "totallv-4": "90000",
+      "level 5": "1400",
+      "total-lv-5": "140000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "64",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "D",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "+5%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3140000",
+    "menu description": "Summons Kujata",
+    "level 1": {
+      "name": "Tetra-Disaster",
+      "effect": "Summon Kujata up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Tetra-Disaster",
+      "effect": "Summon Kujata up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Tetra-Disaster",
+      "effect": "Summon Kujata up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Tetra-Disaster",
+      "effect": "Summon Kujata up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Tetra-Disaster"
+    }
+  },
+  {
+    "id:": "53",
+    "materia": "Alexander",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "250",
+      "total-lv2": "25000",
+      "level 3": "650",
+      "total-lv3": "65000",
+      "level 4": "1000",
+      "totallv-4": "100000",
+      "level 5": "1500",
+      "total-lv-5": "150000"
+    },
+    "element": "Holy",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "65",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "D",
+    "str": "",
+    "vit": "",
+    "mag": "+1",
+    "mdef": "+1",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-5%",
+    "maxmp": "+5%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3150000",
+    "menu description": "Summons Alexander",
+    "level 1": {
+      "name": "Judgement",
+      "effect": "Summon Alexander up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Judgement",
+      "effect": "Summon Alexander up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Judgement",
+      "effect": "Summon Alexander up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Judgement",
+      "effect": "Summon Alexander up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Judgement"
+    }
+  },
+  {
+    "id:": "54",
+    "materia": "Phoenix",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "280",
+      "total-lv2": "28000",
+      "level 3": "700",
+      "total-lv3": "70000",
+      "level 4": "1200",
+      "totallv-4": "120000",
+      "level 5": "1800",
+      "total-lv-5": "180000"
+    },
+    "element": "Fire",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "66",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "E",
+    "str": "",
+    "vit": "",
+    "mag": "+2",
+    "mdef": "+2",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "+10%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3180000",
+    "menu description": "Summons Phoenix",
+    "level 1": {
+      "name": "Phoenix Flame",
+      "effect": "Summon Phoenix up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Phoenix Flame",
+      "effect": "Summon Phoenix up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Phoenix Flame",
+      "effect": "Summon Phoenix up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Phoenix Flame",
+      "effect": "Summon Phoenix up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Phoenix Flame"
+    }
+  },
+  {
+    "id:": "55",
+    "materia": "Neo Bahamut",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "300",
+      "total-lv2": "30000",
+      "level 3": "800",
+      "total-lv3": "80000",
+      "level 4": "1400",
+      "totallv-4": "140000",
+      "level 5": "2000",
+      "total-lv-5": "200000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "67",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "E",
+    "str": "",
+    "vit": "",
+    "mag": "+2",
+    "mdef": "+2",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "+10%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3200000",
+    "menu description": "Summons Neo Bahamut",
+    "level 1": {
+      "name": "Giga Flare",
+      "effect": "Summon Neo Bahamut up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Giga Flare",
+      "effect": "Summon Neo Bahamut up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Giga Flare",
+      "effect": "Summon Neo Bahamut up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Giga Flare",
+      "effect": "Summon Neo Bahamut up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Giga Flare"
+    }
+  },
+  {
+    "id:": "56",
+    "materia": "Hades",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "350",
+      "total-lv2": "35000",
+      "level 3": "1200",
+      "total-lv3": "120000",
+      "level 4": "1500",
+      "totallv-4": "150000",
+      "level 5": "2500",
+      "total-lv-5": "250000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "68",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "F",
+    "str": "",
+    "vit": "",
+    "mag": "+4",
+    "mdef": "+4",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "-10%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "Y",
+    "poison": "Y",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "Y",
+    "silence": "Y",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "Y",
+    "mini": "Y",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3250000",
+    "menu description": "Summons Hades",
+    "level 1": {
+      "name": "Black Cauldron",
+      "effect": "Summon Hades up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Black Cauldron",
+      "effect": "Summon Hades up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Black Cauldron",
+      "effect": "Summon Hades up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Black Cauldron",
+      "effect": "Summon Hades up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Black Cauldron"
+    }
+  },
+  {
+    "id:": "57",
+    "materia": "Typhon",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "350",
+      "total-lv2": "35000",
+      "level 3": "1200",
+      "total-lv3": "120000",
+      "level 4": "1500",
+      "totallv-4": "150000",
+      "level 5": "2500",
+      "total-lv-5": "250000"
+    },
+    "element": "Wind",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "69",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "F",
+    "str": "",
+    "vit": "",
+    "mag": "+4",
+    "mdef": "+4",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "-10%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3250000",
+    "menu description": "Summons Typhon",
+    "level 1": {
+      "name": "Typhon",
+      "effect": "Summon Typhon up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Typhon",
+      "effect": "Summon Typhon up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Typhon",
+      "effect": "Summon Typhon up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Typhon",
+      "effect": "Summon Typhon up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Typhon"
+    }
+  },
+  {
+    "id:": "58",
+    "materia": "Bahamut ZERO",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "350",
+      "total-lv2": "35000",
+      "level 3": "1200",
+      "total-lv3": "120000",
+      "level 4": "1500",
+      "totallv-4": "150000",
+      "level 5": "2500",
+      "total-lv-5": "250000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "70",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "F",
+    "str": "",
+    "vit": "",
+    "mag": "+4",
+    "mdef": "+4",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "-10%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3250000",
+    "menu description": "Summons Bahamut ZERO",
+    "level 1": {
+      "name": "Disintegration",
+      "effect": "Summon Bahamut ZERO up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Disintegration",
+      "effect": "Summon Bahamut ZERO up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Disintegration",
+      "effect": "Summon Bahamut ZERO up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Disintegration",
+      "effect": "Summon Bahamut ZERO up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Disintegration"
+    }
+  },
+  {
+    "id:": "59",
+    "materia": "Knights of Round",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": "500",
+      "total-lv2": "50000",
+      "level 3": "2000",
+      "total-lv3": "200000",
+      "level 4": "3000",
+      "totallv-4": "300000",
+      "level 5": "5000",
+      "total-lv-5": "500000"
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "3",
+      "description": "Enables Summons based on Modifiers 1-5 and AP Lv"
+    },
+    "materia modifiers": {
+      "type 1": "71",
+      "type 2": "1",
+      "type 3": "2",
+      "type 4": "3",
+      "type 5": "4",
+      "type 6": "5"
+    },
+    "equip effect": "10",
+    "str": "",
+    "vit": "",
+    "mag": "+8",
+    "mdef": "+8",
+    "dex": "",
+    "luck": "",
+    "maxhp": "-10%",
+    "maxmp": "+20%",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "3500000",
+    "menu description": "Summons Knights of Round",
+    "level 1": {
+      "name": "Tera Flare",
+      "effect": "Summon Knights of Round up to 1 time per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 2": {
+      "name": "Tera Flare",
+      "effect": "Summon Knights of Round up to 2 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 3": {
+      "name": "Tera Flare",
+      "effect": "Summon Knights of Round up to 3 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 4": {
+      "name": "Tera Flare",
+      "effect": "Summon Knights of Round up to 4 times per battle",
+      "target attributes": "All Tar Only (No Split)"
+    },
+    "level 5": {
+      "name": "Tera Flare"
+    }
+  },
+  {
+    "id:": "5A",
+    "materia": "Master Summon",
+    "materia type": "Summon",
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": "Hidden",
+    "materia sub-type": {
+      "id": "0",
+      "description": "Enables Summons ATTACK IDs 0-57"
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": "0",
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "1",
+    "selling value": "1",
+    "formula": "0",
+    "menu description": "All Summoned monsters summoned",
+    "level 1": {
+      "name": "Master Summon",
+      "effect": "Enables use of all Summons",
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "5B",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "4294967295",
+    "selling value": "4294967295",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "5C",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "4294967295",
+    "selling value": "4294967295",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "5D",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "4294967295",
+    "selling value": "4294967295",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "5E",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "4294967295",
+    "selling value": "4294967295",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  },
+  {
+    "id:": "5F",
+    "materia": "(Blank)",
+    "materia type": null,
+    "ap needed": {
+      "level 2": null,
+      "total-lv2": "",
+      "level 3": null,
+      "total-lv3": "",
+      "level 4": null,
+      "totallv-4": "",
+      "level 5": null,
+      "total-lv-5": ""
+    },
+    "element": null,
+    "materia sub-type": {
+      "id": null,
+      "description": ""
+    },
+    "materia modifiers": {
+      "type 1": null,
+      "type 2": null,
+      "type 3": null,
+      "type 4": null,
+      "type 5": null,
+      "type 6": null
+    },
+    "equip effect": null,
+    "str": "",
+    "vit": "",
+    "mag": "",
+    "mdef": "",
+    "dex": "",
+    "luck": "",
+    "maxhp": "",
+    "maxmp": "",
+    "death": "N",
+    "near-death": "N",
+    "sleep": "N",
+    "poison": "N",
+    "sadness": "N",
+    "fury": "N",
+    "confusion": "N",
+    "silence": "N",
+    "haste": "N",
+    "slow": "N",
+    "stop": "N",
+    "frog": "N",
+    "mini": "N",
+    "slow-numb": "N",
+    "petrify": "N",
+    "regen": "N",
+    "barrier": "N",
+    "mbarrier": "N",
+    "reflect": "N",
+    "dual": "N",
+    "shield": "N",
+    "death sentence": "N",
+    "manipulate": "N",
+    "berserk": "N",
+    "buying value": "4294967295",
+    "selling value": "4294967295",
+    "formula": "",
+    "menu description": null,
+    "level 1": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 2": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 3": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 4": {
+      "name": null,
+      "effect": null,
+      "target attributes": null
+    },
+    "level 5": {
+      "name": null
+    }
+  }
+]
