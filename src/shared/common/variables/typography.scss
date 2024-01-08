@@ -16,6 +16,21 @@ $main-line-height: 0.9;
   }
 }
 
+@mixin menu-item-size {
+  font-family: $main-font;
+  font-size: .85em;
+  line-height: 1.15;
+  font-weight: 200;
+  letter-spacing: 0.01em;
+
+  &:not([class]):not(:last-child):not(:only-child) {
+    margin-bottom: 4px;
+  }
+  @media (max-width: 992px) {
+    font-size: 0.7em;
+  }
+}
+
 @mixin button-size {
   font-family: $main-font;
   font-size: 20px;
