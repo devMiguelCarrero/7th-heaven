@@ -2,6 +2,7 @@
   {
     "id:": "1",
     "materia": "HP Plus",
+    "slug": "hp-plus",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "100",
@@ -90,6 +91,7 @@
   {
     "id:": "2",
     "materia": "Speed Plus",
+    "slug": "speed-plus",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "150",
@@ -178,6 +180,7 @@
   {
     "id:": "3",
     "materia": "Magic Plus",
+    "slug": "magic-plus",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "100",
@@ -266,6 +269,7 @@
   {
     "id:": "4",
     "materia": "Luck Plus",
+    "slug": "luck-plus",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "150",
@@ -354,6 +358,7 @@
   {
     "id:": "5",
     "materia": "EXP Plus",
+    "slug": "exp-plus",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "600",
@@ -442,6 +447,7 @@
   {
     "id:": "6",
     "materia": "Gil Plus",
+    "slug": "gil-plus",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "800",
@@ -530,6 +536,7 @@
   {
     "id:": "7",
     "materia": "Enemy Away",
+    "slug": "enemy-away",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "100",
@@ -618,6 +625,7 @@
   {
     "id:": "8",
     "materia": "Enemy Lure",
+    "slug": "enemy-lure",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "100",
@@ -706,6 +714,7 @@
   {
     "id:": "9",
     "materia": "Chocobo Lure",
+    "slug": "chocobo-lure",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "30",
@@ -794,6 +803,7 @@
   {
     "id:": "A",
     "materia": "Pre-Emptive",
+    "slug": "pre-emptive",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "80",
@@ -882,6 +892,7 @@
   {
     "id:": "B",
     "materia": "Long Range",
+    "slug": "long-range",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "800",
@@ -970,6 +981,7 @@
   {
     "id:": "C",
     "materia": "Mega All",
+    "slug": "mega-all",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "200",
@@ -1058,6 +1070,7 @@
   {
     "id:": "D",
     "materia": "Counter Attack",
+    "slug": "coounter-attack",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "100",
@@ -1146,6 +1159,7 @@
   {
     "id:": "E",
     "materia": "Slash-All",
+    "slug": "slash-all",
     "materia type": "Command",
     "ap needed": {
       "level 2": "1300",
@@ -1234,6 +1248,7 @@
   {
     "id:": "F",
     "materia": "Double Cut",
+    "slug": "double-cut",
     "materia type": "Command",
     "ap needed": {
       "level 2": "1000",
@@ -1322,6 +1337,7 @@
   {
     "id:": "10",
     "materia": "Cover",
+    "slug": "cover",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "20",
@@ -1410,6 +1426,7 @@
   {
     "id:": "11",
     "materia": "Underwater",
+    "slug": "underwater",
     "materia type": "Independent",
     "ap needed": {
       "level 2": null,
@@ -1498,6 +1515,7 @@
   {
     "id:": "12",
     "materia": "HP<->MP",
+    "slug": "hp-to-mp",
     "materia type": "Independent",
     "ap needed": {
       "level 2": "800",
@@ -1586,6 +1604,7 @@
   {
     "id:": "13",
     "materia": "W-Magic",
+    "slug": "w-magic",
     "materia type": "Command",
     "ap needed": {
       "level 2": "2500",
@@ -1674,6 +1693,7 @@
   {
     "id:": "14",
     "materia": "W-Summon",
+    "slug": "w-summon",
     "materia type": "Command",
     "ap needed": {
       "level 2": "2500",
@@ -1762,6 +1782,7 @@
   {
     "id:": "15",
     "materia": "W-Item",
+    "slug": "w-item",
     "materia type": "Command",
     "ap needed": {
       "level 2": "2500",
@@ -1848,96 +1869,9 @@
     }
   },
   {
-    "id:": "16",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "0",
-    "selling value": "0",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
     "id:": "17",
     "materia": "All",
+    "slug": "all",
     "materia type": "Support",
     "ap needed": {
       "level 2": "15",
@@ -2026,6 +1960,7 @@
   {
     "id:": "18",
     "materia": "Counter",
+    "slug": "counter",
     "materia type": "Support",
     "ap needed": {
       "level 2": "200",
@@ -2114,6 +2049,7 @@
   {
     "id:": "19",
     "materia": "Magic Counter",
+    "slug": "magic-counter",
     "materia type": "Support",
     "ap needed": {
       "level 2": "200",
@@ -2202,6 +2138,7 @@
   {
     "id:": "1A",
     "materia": "MP Turbo",
+    "slug": "mp-turbo",
     "materia type": "Support",
     "ap needed": {
       "level 2": "100",
@@ -2290,6 +2227,7 @@
   {
     "id:": "1B",
     "materia": "MP Absorb",
+    "slug": "mp-absorb",
     "materia type": "Support",
     "ap needed": {
       "level 2": "1000",
@@ -2378,6 +2316,7 @@
   {
     "id:": "1C",
     "materia": "HP Absorb",
+    "slug": "hp-absorb",
     "materia type": "Support",
     "ap needed": {
       "level 2": "1000",
@@ -2466,6 +2405,7 @@
   {
     "id:": "1D",
     "materia": "Elemental",
+    "slug": "elemental",
     "materia type": "Support",
     "ap needed": {
       "level 2": "100",
@@ -2554,6 +2494,7 @@
   {
     "id:": "1E",
     "materia": "Added Effect",
+    "slug": "added-effect",
     "materia type": "Support",
     "ap needed": {
       "level 2": "1000",
@@ -2642,6 +2583,7 @@
   {
     "id:": "1F",
     "materia": "Sneak Attack",
+    "slug": "sneak-attack",
     "materia type": "Support",
     "ap needed": {
       "level 2": "200",
@@ -2730,6 +2672,7 @@
   {
     "id:": "20",
     "materia": "Final Attack",
+    "slug": "final-attack",
     "materia type": "Support",
     "ap needed": {
       "level 2": "200",
@@ -2818,6 +2761,7 @@
   {
     "id:": "21",
     "materia": "Added Cut",
+    "slug": "added-cut",
     "materia type": "Support",
     "ap needed": {
       "level 2": "2000",
@@ -2906,6 +2850,7 @@
   {
     "id:": "22",
     "materia": "Steal as well",
+    "slug": "steal-as-well",
     "materia type": "Support",
     "ap needed": {
       "level 2": "2000",
@@ -2994,6 +2939,7 @@
   {
     "id:": "23",
     "materia": "Quadra Magic",
+    "slug": "quadra-magic",
     "materia type": "Support",
     "ap needed": {
       "level 2": "400",
@@ -3082,6 +3028,7 @@
   {
     "id:": "24",
     "materia": "Steal",
+    "slug": "steal",
     "materia type": "Command",
     "ap needed": {
       "level 2": "400",
@@ -3170,6 +3117,7 @@
   {
     "id:": "25",
     "materia": "Sense",
+    "slug": "sense",
     "materia type": "Command",
     "ap needed": {
       "level 2": "400",
@@ -3256,96 +3204,9 @@
     }
   },
   {
-    "id:": "26",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "10000",
-    "selling value": "700000",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
     "id:": "27",
     "materia": "Throw",
+    "slug": "throe",
     "materia type": "Command",
     "ap needed": {
       "level 2": "450",
@@ -3434,6 +3295,7 @@
   {
     "id:": "28",
     "materia": "Morph",
+    "slug": "morph",
     "materia type": "Command",
     "ap needed": {
       "level 2": "1000",
@@ -3522,6 +3384,7 @@
   {
     "id:": "29",
     "materia": "Deathblow",
+    "slug": "deathblow",
     "materia type": "Command",
     "ap needed": {
       "level 2": "400",
@@ -3610,6 +3473,7 @@
   {
     "id:": "2A",
     "materia": "Manipulate",
+    "slug": "manipulate",
     "materia type": "Command",
     "ap needed": {
       "level 2": "400",
@@ -3698,6 +3562,7 @@
   {
     "id:": "2B",
     "materia": "Mime",
+    "slug": "mime",
     "materia type": "Command",
     "ap needed": {
       "level 2": "1000",
@@ -3786,6 +3651,7 @@
   {
     "id:": "2C",
     "materia": "Enemy Skill",
+    "slug": "enemy-skill",
     "materia type": "Command",
     "ap needed": {
       "level 2": null,
@@ -3872,272 +3738,9 @@
     }
   },
   {
-    "id:": "2D",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "4294967295",
-    "selling value": "4294967295",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
-    "id:": "2E",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "4294967295",
-    "selling value": "4294967295",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
-    "id:": "2F",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "4294967295",
-    "selling value": "4294967295",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
     "id:": "30",
     "materia": "Master Command",
+    "slug": null,
     "materia type": "Command",
     "ap needed": {
       "level 2": null,
@@ -4226,6 +3829,7 @@
   {
     "id:": "31",
     "materia": "Fire",
+    "slug": "master-command",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "20",
@@ -4314,6 +3918,7 @@
   {
     "id:": "32",
     "materia": "Ice",
+    "slug": "ice",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "20",
@@ -4402,6 +4007,7 @@
   {
     "id:": "33",
     "materia": "Earth",
+    "slug": "ear",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "60",
@@ -4490,6 +4096,7 @@
   {
     "id:": "34",
     "materia": "Lightning",
+    "slug": "lightning",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "20",
@@ -4578,6 +4185,7 @@
   {
     "id:": "35",
     "materia": "Restore",
+    "slug": "Restore",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "25",
@@ -4666,6 +4274,7 @@
   {
     "id:": "36",
     "materia": "Heal",
+    "slug": "heal",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "120",
@@ -4754,6 +4363,7 @@
   {
     "id:": "37",
     "materia": "Revive",
+    "slug": "revive",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "450",
@@ -4842,6 +4452,7 @@
   {
     "id:": "38",
     "materia": "Seal",
+    "slug": "seal",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "100",
@@ -4930,6 +4541,7 @@
   {
     "id:": "39",
     "materia": "Mystify",
+    "slug": "mystify",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "120",
@@ -5018,6 +4630,7 @@
   {
     "id:": "3A",
     "materia": "Transform",
+    "slug": "transform",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "80",
@@ -5106,6 +4719,7 @@
   {
     "id:": "3B",
     "materia": "Exit",
+    "slug": "exit",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "100",
@@ -5194,6 +4808,7 @@
   {
     "id:": "3C",
     "materia": "Poison",
+    "slug": "poison",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "50",
@@ -5282,6 +4897,7 @@
   {
     "id:": "3D",
     "materia": "Gravity",
+    "slug": "gravity",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "100",
@@ -5370,6 +4986,7 @@
   {
     "id:": "3E",
     "materia": "Barrier",
+    "slug": "barrier",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "50",
@@ -5456,96 +5073,9 @@
     }
   },
   {
-    "id:": "3F",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "0",
-    "selling value": "0",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
     "id:": "40",
     "materia": "Comet",
+    "slug": "comet",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "120",
@@ -5634,6 +5164,7 @@
   {
     "id:": "41",
     "materia": "Time",
+    "slug": "time",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "80",
@@ -5720,184 +5251,9 @@
     }
   },
   {
-    "id:": "42",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "0",
-    "selling value": "0",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
-    "id:": "43",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "0",
-    "selling value": "0",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
     "id:": "44",
     "materia": "Destruct",
+    "slug": "destruct",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "60",
@@ -5986,6 +5342,7 @@
   {
     "id:": "45",
     "materia": "Contain",
+    "slug": "contain",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "50",
@@ -6074,6 +5431,7 @@
   {
     "id:": "46",
     "materia": "Full Cure",
+    "slug": "full-cure",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "30",
@@ -6162,6 +5520,7 @@
   {
     "id:": "47",
     "materia": "Shield",
+    "slug": "shield",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "100",
@@ -6250,6 +5609,7 @@
   {
     "id:": "48",
     "materia": "Ultima",
+    "slug": "ultima",
     "materia type": "Magic",
     "ap needed": {
       "level 2": "50",
@@ -6338,6 +5698,7 @@
   {
     "id:": "49",
     "materia": "Master Magic",
+    "slug": "master-magic",
     "materia type": "Magic",
     "ap needed": {
       "level 2": null,
@@ -6426,6 +5787,7 @@
   {
     "id:": "4A",
     "materia": "Choco/Mog",
+    "slug": "choco-mog",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "20",
@@ -6514,6 +5876,7 @@
   {
     "id:": "4B",
     "materia": "Shiva",
+    "slug": "shiva",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "40",
@@ -6602,6 +5965,7 @@
   {
     "id:": "4C",
     "materia": "Ifrit",
+    "slug": "ifrit",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "50",
@@ -6690,6 +6054,7 @@
   {
     "id:": "4D",
     "materia": "Ramuh",
+    "slug": "Ramuh",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "100",
@@ -6778,6 +6143,7 @@
   {
     "id:": "4E",
     "materia": "Titan",
+    "slug": "titan",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "150",
@@ -6866,6 +6232,7 @@
   {
     "id:": "4F",
     "materia": "Odin",
+    "slug": "odin",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "160",
@@ -6954,6 +6321,7 @@
   {
     "id:": "50",
     "materia": "Leviathan",
+    "slug": "leviathan",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "180",
@@ -7042,6 +6410,7 @@
   {
     "id:": "51",
     "materia": "Bahamut",
+    "slug": "bahamut",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "200",
@@ -7130,6 +6499,7 @@
   {
     "id:": "52",
     "materia": "Kujata",
+    "slug": "kujata",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "220",
@@ -7218,6 +6588,7 @@
   {
     "id:": "53",
     "materia": "Alexander",
+    "slug": "alexander",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "250",
@@ -7306,6 +6677,7 @@
   {
     "id:": "54",
     "materia": "Phoenix",
+    "slug": "phoenix",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "280",
@@ -7394,6 +6766,7 @@
   {
     "id:": "55",
     "materia": "Neo Bahamut",
+    "slug": "neo Bahamut",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "300",
@@ -7482,6 +6855,7 @@
   {
     "id:": "56",
     "materia": "Hades",
+    "slug": "hades",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "350",
@@ -7570,6 +6944,7 @@
   {
     "id:": "57",
     "materia": "Typhon",
+    "slug": "typhon",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "350",
@@ -7658,6 +7033,7 @@
   {
     "id:": "58",
     "materia": "Bahamut ZERO",
+    "slug": "bahamut-ZERO",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "350",
@@ -7746,6 +7122,7 @@
   {
     "id:": "59",
     "materia": "Knights of Round",
+    "slug": "knights-of-round",
     "materia type": "Summon",
     "ap needed": {
       "level 2": "500",
@@ -7834,6 +7211,7 @@
   {
     "id:": "5A",
     "materia": "Master Summon",
+    "slug": "master-summon",
     "materia type": "Summon",
     "ap needed": {
       "level 2": null,
@@ -7898,446 +7276,6 @@
     "level 1": {
       "name": "Master Summon",
       "effect": "Enables use of all Summons",
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
-    "id:": "5B",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "4294967295",
-    "selling value": "4294967295",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
-    "id:": "5C",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "4294967295",
-    "selling value": "4294967295",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
-    "id:": "5D",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "4294967295",
-    "selling value": "4294967295",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
-    "id:": "5E",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "4294967295",
-    "selling value": "4294967295",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 2": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 3": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 4": {
-      "name": null,
-      "effect": null,
-      "target attributes": null
-    },
-    "level 5": {
-      "name": null
-    }
-  },
-  {
-    "id:": "5F",
-    "materia": "(Blank)",
-    "materia type": null,
-    "ap needed": {
-      "level 2": null,
-      "total-lv2": "",
-      "level 3": null,
-      "total-lv3": "",
-      "level 4": null,
-      "totallv-4": "",
-      "level 5": null,
-      "total-lv-5": ""
-    },
-    "element": null,
-    "materia sub-type": {
-      "id": null,
-      "description": ""
-    },
-    "materia modifiers": {
-      "type 1": null,
-      "type 2": null,
-      "type 3": null,
-      "type 4": null,
-      "type 5": null,
-      "type 6": null
-    },
-    "equip effect": null,
-    "str": "",
-    "vit": "",
-    "mag": "",
-    "mdef": "",
-    "dex": "",
-    "luck": "",
-    "maxhp": "",
-    "maxmp": "",
-    "death": "N",
-    "near-death": "N",
-    "sleep": "N",
-    "poison": "N",
-    "sadness": "N",
-    "fury": "N",
-    "confusion": "N",
-    "silence": "N",
-    "haste": "N",
-    "slow": "N",
-    "stop": "N",
-    "frog": "N",
-    "mini": "N",
-    "slow-numb": "N",
-    "petrify": "N",
-    "regen": "N",
-    "barrier": "N",
-    "mbarrier": "N",
-    "reflect": "N",
-    "dual": "N",
-    "shield": "N",
-    "death sentence": "N",
-    "manipulate": "N",
-    "berserk": "N",
-    "buying value": "4294967295",
-    "selling value": "4294967295",
-    "formula": "",
-    "menu description": null,
-    "level 1": {
-      "name": null,
-      "effect": null,
       "target attributes": null
     },
     "level 2": {
