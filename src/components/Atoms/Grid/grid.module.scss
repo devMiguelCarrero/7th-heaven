@@ -1,0 +1,17 @@
+@import '@/shared/common/variables/sizes';
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); // 3 columnas en escritorio
+  gap: $size-e-xxs; // Espacio entre columnas
+
+  @media screen and (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr); // 2 columnas en tablet
+  }
+
+  @media screen and (max-width: 480px) {
+    grid-template-columns: 1fr; // 1 columna en teléfono
+  }
+
+  // Agrega aquí más estilos según sea necesario para tus elementos dentro del grid
+}

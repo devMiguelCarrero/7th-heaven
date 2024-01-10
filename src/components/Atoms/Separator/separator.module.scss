@@ -1,0 +1,12 @@
+@import '@/shared/common/variables/variables';
+@import '@/shared/common/variables/sizes';
+
+.separator {
+  position: relative;
+  width: 100%;
+  height: $border-weight;
+  background-color: $border-color;
+  box-shadow: $shadow-standard;
+  margin-top: $size-e-xs;
+  margin-bottom: $size-e-xs;
+}

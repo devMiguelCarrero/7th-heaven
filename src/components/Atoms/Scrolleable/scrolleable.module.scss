@@ -1,0 +1,10 @@
+@import '@/shared/common/variables/sizes';
+
+.scrolleable {
+  position: relative;
+  z-index: 10;
+  overflow-y: auto;
+  padding: $size-e-xxxs;
+  padding-left: $size-e-l;
+  margin-left: -#{$size-e-l};
+}

@@ -1,0 +1,39 @@
+@import '@/shared/common/variables/typography';
+@import '@/shared/common/variables/colors';
+
+.title {
+  @include title-size;
+
+  &__excerpt {
+    font-size: 0.7em;
+  }
+  color: $light-blue;
+
+  &--light {
+    .title__excerpt {
+      font-size: 1.2em;
+      font-family: var(--font-main-bold);
+    }
+  }
+
+  &--colossal {
+    .title__excerpt {
+      font-size: 1em;
+      font-family: var(--font-main-bold);
+    }
+  }
+
+  &--massive {
+    .title__excerpt {
+      font-size: 1.4em;
+      font-family: var(--font-main-bold);
+    }
+  }
+
+  &--medium {
+    .title__excerpt {
+      font-size: 1.4em;
+      font-family: var(--font-main-bold);
+    }
+  }
+}
