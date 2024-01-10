@@ -1,10 +1,21 @@
 .transparent-area {
   background-color: transparent;
   position: relative;
+  display: flex;
+  height: 100%;
+  
+  &--full-section {
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  &--main-section {
+    flex: 0.85;
+    flex-direction: column;
+    justify-content: center;
+  }
   &--index-section {
-    display: flex;
     flex: 0.15;
-    height: 100%;
     flex-direction: column;
     justify-content: space-between;
   }

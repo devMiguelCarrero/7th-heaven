@@ -6,7 +6,7 @@ import classes from './transparent-area.module.scss';
 
 interface Props {
   className?: classNames;
-  variant?: 'index-section';
+  variant?: 'index-section' | 'main-section';
   children: ReactNode;
 }
 
