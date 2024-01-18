@@ -1,21 +1,38 @@
 import React, { FC } from 'react';
 import cx from 'classnames';
 
-import classes from './paragraph.module.scss';
+import classes from './atom-link.module.scss';
 import { classNames } from '@/shared/types/types';
+
+export type linkVariants = 'regular' | 'lifestream';
 
 interface Props {
   children: React.ReactNode;
-  variant?: 'regular' | 'medium' | 'high';
+  variant?: linkVariants;
   className?: classNames;
+  disabled?: boolean;
+  href: string;
+  title: string;
 }
 
-const AtomLin: FC<Props> = ({ children, variant, className }) => {
+const AtomLink: FC<Props> = ({
+  children,
+  variant,
+  className,
+  disabled = false,
+  href = '#',
+  title = '7th heaven',
+}) => {
   const classNames = cx(classes['link'], {
     [className]: className,
-    [classes[`link--${variant}`]]: variant,
+    [classes[`link--${variant}`]]: variant && !disabled,
+    [classes['link--disabled']]: disabled,
   });
 
-  return <p className={classNames}>{children}</p>;
+  return (
+    <a href={href} title={title} className={classNames}>
+      {children}
+    </a>
+  );
 };
-export default AtomLin;
+export default AtomLink;

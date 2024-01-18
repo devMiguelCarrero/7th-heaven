@@ -1,6 +1,31 @@
-@import '@/shared/common/variables/typography';
+@import '@/shared/common/variables/sizes';
+@import '@/shared/common/variables/colors';
+@import '@/shared/common/variables/mixins';
+@import '@/shared/common/variables/transitions';
 
-.paragraph {
-  @include paragraph-size;
-  padding: 0;
+.link {
+  position: relative;
+
+  &--regular {
+    color: inherit;
+  }
+
+  &--lifestream {
+    color: $color-lifestream-3;
+
+    &::after {
+      @include link-hover();
+    }
+
+    &:hover {
+      &::after {
+        width: 100%;
+      }
+    }
+  }
+
+  &--disabled {
+    color: $disabled-color;
+    cursor: default;
+  }
 }
