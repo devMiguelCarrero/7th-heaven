@@ -30,14 +30,4 @@ $variants: 'magic' url('/img/materia/magic-materia.webp'),
       }
     }
   }
-
-  &::after {
-    @include link-hover();
-  }
-
-  &:hover {
-    &::after {
-      width: 100%;
-    }
-  }
 }

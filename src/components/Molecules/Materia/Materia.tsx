@@ -4,13 +4,14 @@ import cx from 'classnames';
 import { classNames } from '@/shared/types/types';
 
 import classes from './materia.module.scss';
-import Link from 'next/link';
+import AtomLink, { linkVariants } from '@/components/Atoms/AtomLink';
 
 interface Props {
   variant?: string;
   className?: classNames;
   name: string;
   slug: string | null;
+  linkType?: linkVariants;
 }
 
 const Materia: FC<Props> = ({
@@ -18,6 +19,7 @@ const Materia: FC<Props> = ({
   className,
   name = 'bolt',
   slug,
+  linkType = 'regular',
 }) => {
   const classNames = cx(classes['materia'], {
     [className]: className,
@@ -27,9 +29,14 @@ const Materia: FC<Props> = ({
   const materiaSlug = slug ? slug : '#';
 
   return (
-    <Link className={classNames} href={`/materia/${materiaSlug}`}>
+    <AtomLink
+      variant={linkType}
+      className={classNames}
+      href={`/materia/${materiaSlug}`}
+      title={name}
+    >
       <span>{name}</span>
-    </Link>
+    </AtomLink>
   );
 };
 
