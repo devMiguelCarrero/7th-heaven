@@ -16,8 +16,8 @@ $color-item: #20b2aa;
 $color-bolt: rgb(20, 102, 255);
 $color-ice: rgb(190, 213, 255);
 $color-lifestream: rgb(20, 226, 123);
-$color-lifestram-2: #4ea35b;
-$color-lifestram-3: #5dc66d;
+$color-lifestream-2: #4ea35b;
+$color-lifestream-3: #5dc66d;
 $color-white-materia: rgb(217, 226, 222);
 
 // TINTS
@@ -25,13 +25,15 @@ $color-sat-50: #f3f8fe;
 $color-sat-100: #dfe6ef;
 $color-sat-200: #c9d2df;
 $color-sat-300: #b3c0d3;
-$color-sat-400: #9fb0c7;
+$color-sat-400: #AEAFAE;
 $color-sat-500: #7b90ae;
 $color-sat-600: #5c7495;
 $color-sat-700: #425a7c;
 $color-sat-800: #2b4362;
 $color-sat-900: #1a2e49;
 $color-sat-1000: #0d1c30;
+
+$disabled-color: $color-sat-400;
 
 // Gradients
 // Tint Gradients

@@ -1,3 +1,5 @@
+@import './variables.scss';
+
 $main-font: 'Reactor7', Arial, sans-serif;
 $main-line-height: 0.9;
 $title-line-height: 1;
@@ -8,6 +10,7 @@ $title-line-height: 1;
   line-height: $title-line-height;
   font-weight: 400;
   letter-spacing: 0.01em;
+  text-shadow: $shadow-standard;
 
   &:not([class]):not(:last-child):not(:only-child) {
     margin-bottom: 4px;
@@ -23,6 +26,7 @@ $title-line-height: 1;
   line-height: $main-line-height;
   font-weight: 200;
   letter-spacing: 0.01em;
+  text-shadow: $shadow-standard;
 
   &:not([class]):not(:last-child):not(:only-child) {
     margin-bottom: 4px;
@@ -38,6 +42,7 @@ $title-line-height: 1;
   line-height: 1.15;
   font-weight: 200;
   letter-spacing: 0.01em;
+  text-shadow: $shadow-standard;
 
   &:not([class]):not(:last-child):not(:only-child) {
     margin-bottom: 4px;
@@ -55,6 +60,7 @@ $title-line-height: 1;
   letter-spacing: 0;
   text-transform: uppercase;
   letter-spacing: 4px;
+  text-shadow: $shadow-standard;
 
   &:not([class]):not(:last-child):not(:only-child) {
     margin-bottom: 4px;
