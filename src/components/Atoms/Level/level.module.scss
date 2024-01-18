@@ -1,0 +1,24 @@
+@import '@/shared/common/variables/typography';
+@import '@/shared/common/variables/sizes';
+
+.level {
+  display: flex;
+  flex-direction: row;
+  gap: $size-e-xxs;
+  align-items: center;
+  @include paragraph-size;
+
+  &__grid {
+    display: flex;
+    flex-direction: row;
+    gap: $size-e-xxxxs;
+    &__star {
+      width: 1em;
+      height: 1em;
+    }
+  }
+
+  &__text {
+    margin-top: 0.25em;
+  }
+}
