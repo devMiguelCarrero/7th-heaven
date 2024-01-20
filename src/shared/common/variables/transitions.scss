@@ -1,4 +1,5 @@
 $transition-time: 0.2s;
+$transition-time-double: calc(#{$transition-time} * 2);
 $transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
 
 @function main-transition(
