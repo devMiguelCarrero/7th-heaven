@@ -1,9 +1,11 @@
+@import '@/shared/common/variables/transitions';
+
 .transparent-area {
   background-color: transparent;
   position: relative;
   display: flex;
   height: 100%;
-  
+
   &--full-section {
     flex: 1;
     flex-direction: column;
@@ -13,10 +15,33 @@
     flex: 0.85;
     flex-direction: column;
     justify-content: center;
+    animation: enter-horizontal #{$transition-time-double} #{$transition-timing-function};
   }
   &--index-section {
     flex: 0.15;
     flex-direction: column;
     justify-content: space-between;
+    z-index: 5;
+    animation: enter-vertical #{$transition-time-double} #{$transition-timing-function};
+  }
+}
+
+@keyframes enter-vertical {
+  from {
+    transform: translateY(-100vh);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
+@keyframes enter-horizontal {
+  from {
+    transform: translateX(-100vw);
+  }
+
+  to {
+    transform: translateY(0);
   }
 }
