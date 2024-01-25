@@ -1,3 +1,7 @@
+![7th Heaven](/public/img/screenshots/ezgif-3-517b49bcf2.gif "7th Heaven")
+
+Just a React based retro layout inspired on 90s videogames working as FF7 wiki.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
