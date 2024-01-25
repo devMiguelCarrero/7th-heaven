@@ -1,7 +1,45 @@
 {
   "name": "7th-heaven",
+  "description": "Just a collection of cool buttons made with react that you can use in your project",
+  "author": "devMiguelCarrero",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devMiguelCarrero/7th-heaven.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://www.paypal.com/donate/?hosted_button_id=RKK3G3FWEAMLU"
+  },
+  "keywords": [
+    "react",
+    "next.js",
+    "buttons",
+    "ui-components",
+    "typescript",
+    "scss",
+    "web-development",
+    "user-interface",
+    "components",
+    "design",
+    "frontend",
+    "web-design",
+    "final-fantasy-vii",
+    "ff7",
+    "cloud-strife",
+    "tifa-lockhart",
+    "aerith-gainsborough",
+    "sephiroth",
+    "rpg",
+    "jrpg",
+    "remake",
+    "midgar",
+    "materia",
+    "ff7-themed-buttons",
+    "gaming-ui",
+    "fantasy-game"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
