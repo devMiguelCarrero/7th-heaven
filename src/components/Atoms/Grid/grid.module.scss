@@ -1,16 +1,39 @@
 @import '@/shared/common/variables/sizes';
+@import '@/shared/common/variables/media-queries';
 
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr); // 3 columnas en escritorio
   gap: $size-e-xxs; // Espacio entre columnas
 
-  @media screen and (max-width: 768px) {
-    grid-template-columns: repeat(2, 1fr); // 2 columnas en tablet
-  }
+  @for $i from 1 through 12 {
+    &.has-#{$i}-columns {
+      grid-template-columns: repeat(#{$i}, 1fr);
+    }
 
-  @media screen and (max-width: 480px) {
-    grid-template-columns: 1fr; // 1 columna en teléfono
+    @include phone-lg {
+      &.grid.has-xs-#{$i}-columns {
+        grid-template-columns: repeat(#{$i}, 1fr);
+      }
+    }
+
+    @include tablet {
+      &.grid.has-sm-#{$i}-columns {
+        grid-template-columns: repeat(#{$i}, 1fr);
+      }
+    }
+
+    @include tablet-lg {
+      &.grid.has-md-#{$i}-columns {
+        grid-template-columns: repeat(#{$i}, 1fr);
+      }
+    }
+
+    @include desktop {
+      &.grid.has-lg-#{$i}-columns {
+        grid-template-columns: repeat(#{$i}, 1fr);
+      }
+    }
   }
 
   // Agrega aquí más estilos según sea necesario para tus elementos dentro del grid

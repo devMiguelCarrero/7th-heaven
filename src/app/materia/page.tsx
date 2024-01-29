@@ -31,7 +31,7 @@ export default function MateriaPage() {
       </Paragraph>
       <Separator />
       <Scrolleable>
-        <Grid>
+        <Grid columns={3} mdColumns={2}>
           {MateriaData &&
             MateriaData.map((materia: any) => {
               return (
